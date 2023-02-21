@@ -8,3 +8,20 @@ h1 {
     font-size: 300%;
     border: 2px whitesmoke;
 }
+
+h2 {
+    font-size: 100%;
+}
+
+p {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 110%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
